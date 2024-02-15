@@ -1,7 +1,7 @@
-Pengalaman Belajar di Dicoding
+#Pengalaman Belajar di Dicoding
 
-15 Februari 2024
-Belajar Dasar Git dengan GitHub
+**15 Februari 2024**<br>
+Belajar Dasar Git dengan GitHub (Progres 38%)
 * Belajar membuat repository baru
 * Belajar membuat readme untuk repository
 * Belajar menambahkan file baru
